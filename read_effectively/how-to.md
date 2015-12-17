@@ -4,6 +4,7 @@
 3. Write a summary of each chapter.
 3. Write your opinions and learnings on this chapter.
 4. Try to take note while reading. Cause:
-    a. People can *remember maximum 7 things*, and
-    b. People will *forget details after 5 minutes*.
+    1. People can **remember maximum 7 things**, and
+    2. People will **forget details after 5 minutes**.
+
 NB: This note is mostly inspired by [Mr. Ragib Hasan](www.ragibhasan.com)
