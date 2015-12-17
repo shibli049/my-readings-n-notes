@@ -6,5 +6,4 @@
 4. Try to take note while reading. Cause:
     a. People can *remember maximum 7 things*, and
     b. People will *forget details after 5 minutes*.
-
 NB: This note is mostly inspired by [Mr. Ragib Hasan](www.ragibhasan.com)
